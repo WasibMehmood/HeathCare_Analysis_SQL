@@ -1,0 +1,11 @@
+List all patients who have been admitted with the medical condition "Cancer".
+Find the total number of patients admitted to the hospital.
+List the names of patients and their corresponding blood types.
+Retrieve the names and ages of all male patients.
+Find the average billing amount for patients with "Obesity".
+List all patients who were admitted to the hospital in the year 2022.
+Retrieve the names of doctors and the number of patients they have treated.
+Find the total billing amount for each insurance provider.
+List the names of patients who have been admitted more than once.
+Find the doctor who treated the highest number of patients with "Diabetes".
+Calculate the average length of hospital stay for patients with "Urgent" admission type.​
